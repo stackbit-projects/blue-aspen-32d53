@@ -10,7 +10,7 @@ palette: blue
 header:
   title: outstandingboy
   tagline: Header Tagline
-  profile_img: images/avatar.png
+  profile_img: images/kitten.jpg
   background: dark
   has_nav: true
   nav_links:
