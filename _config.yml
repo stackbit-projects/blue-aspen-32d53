@@ -9,7 +9,7 @@ layout_style: overflow
 palette: blue
 header:
   title: outstandingboy
-  tagline: Header Tagline
+  tagline: 아웃스탠딩보이의 블로그
   profile_img: images/kitten.jpg
   background: dark
   has_nav: true
