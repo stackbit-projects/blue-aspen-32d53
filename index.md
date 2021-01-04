@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: "안녕하세요! \U0001F44B"
-    content: '> ###### 각종 개발 관련 포스팅, 공부한 것들, 잡다한 이야기 등등 수록'
+    content: '각종 개발 관련 포스팅, 공부한 것들, 잡다한 이야기 등등 수록 '
   - section_id: about
     type: section_content
     title: About
